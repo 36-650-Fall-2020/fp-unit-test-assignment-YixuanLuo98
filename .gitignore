@@ -1,0 +1,14 @@
+.DS_Store
+thumbs.db
+
+.Rhistory
+*.Rproj
+*.R~
+
+__pycache__/
+*.pyc
+*.py~
+.pytest_cache/
+
+.idea/
+.vscode/
