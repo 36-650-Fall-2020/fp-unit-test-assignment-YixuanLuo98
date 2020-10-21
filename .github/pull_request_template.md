@@ -23,4 +23,4 @@ If I have any questions about the policies in the syllabus, I will contact the i
 
 Signed,
 
-[ATTN: YOUR NAME HERE]
+[ATTN: Yixuan Luo]

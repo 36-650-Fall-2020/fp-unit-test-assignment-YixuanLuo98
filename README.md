@@ -10,3 +10,15 @@ In this repository, you'll work on your homework assignments and submit your com
 2. Update the checklist document under docs folder
 3. Add your datasets under data folder
 4. In this ReadMe, append screenshots, documentation, and other requirements
+
+### Screenshot of SonarScanner Result:
+
+Please note that the other files not related to this assignment were removed(e.g. word.count, oop...)therefore I could only generated overall test coverage as below:
+
+![](coverage.png)
+![](issue.png)
+
+### Implemented Functions
+1. Map(): This is used to take the sum for both cases and deaths to get their accumulated values
+2. Reduce(): This is to apply a chain of sum of all the values within a time range selected by user
+3. Lambda(): This is used together with Reduce() to define the sum
