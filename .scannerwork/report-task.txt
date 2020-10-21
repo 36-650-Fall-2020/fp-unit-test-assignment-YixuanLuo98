@@ -1,6 +1,6 @@
-projectKey=TestPython
+projectKey=fp-test8
 serverUrl=http://localhost:9000
 serverVersion=8.4.2.36762
-dashboardUrl=http://localhost:9000/dashboard?id=TestPython
-ceTaskId=AXUgXtBiEXznBQ4Zc3Ou
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXUgXtBiEXznBQ4Zc3Ou
+dashboardUrl=http://localhost:9000/dashboard?id=fp-test8
+ceTaskId=AXVKDXFd6JMhLHg3LDMd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXVKDXFd6JMhLHg3LDMd
