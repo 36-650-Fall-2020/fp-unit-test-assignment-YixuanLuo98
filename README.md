@@ -12,6 +12,9 @@ In this repository, you'll work on your homework assignments and submit your com
 4. In this ReadMe, append screenshots, documentation, and other requirements
 
 ### Screenshot of SonarScanner Result:
+
+Please note that the other files not related to this assignment were removed(e.g. word.count, oop...)therefore I could only generated overall test coverage as below:
+
 ![](coverage.png)
 ![](issue.png)
 
